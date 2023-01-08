@@ -1,1 +1,2 @@
 # odin-recipes
+Hello to all who will briefly read this. This is the first project I've been assigned qhile doing The Odin Project. This is my Recipe project and in this project I will showcase the few skills that I have learned so far on my coding journey. I will showcase basic HTML knoledge such as setting upa boilerplate to ensure (I willl finish this section when I'm finished.)
